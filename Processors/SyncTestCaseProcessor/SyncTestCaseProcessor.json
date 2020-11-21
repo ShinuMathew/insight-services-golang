@@ -1,0 +1,18 @@
+{
+    "processor_name":"synctestcaseprocessor",
+    "source":
+    {
+        "source_type":"CSV",
+        "source_location":"/Users/ecom-shinu.mathew/Documents/Insight10/Repos"
+    },
+    "processor":
+    {
+        "processor_type":"CSV_TO_DB"
+    },
+    "target":
+    {
+        "target_type":"MYSQL",
+        "database_name":"mylearning",
+        "table_name":"TC_Design"
+    }    
+}

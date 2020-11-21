@@ -1,0 +1,14 @@
+{
+	"protocol": "tcp",
+	"host": "127.0.0.1",
+	"port": "3306",
+	"db_name": "mylearning",
+	"db_username": "root",
+	"db_password": "shinz9474",
+	"db_connection": "",
+	"os": {
+		"os_name": "mac",
+		"db_username": "root",
+		"db_password": "shinz9474"
+	}
+}

@@ -1,0 +1,1 @@
+sudo /usr/local/mysql/bin/mysqldump -u root -p mylearning > mylearning-bckup.sql

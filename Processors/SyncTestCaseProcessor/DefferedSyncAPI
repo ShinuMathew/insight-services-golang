@@ -1,0 +1,83 @@
+//Sync API deffered
+
+// package SyncTestCaseProcessor
+
+// import (
+// 	"encoding/json"
+// 	"log"
+// 	"net/http"
+// 	"os/exec"
+// )
+
+// //Sync specific Test case
+// func SyncSpecificTestCase(w http.ResponseWriter, r *http.Request) {
+
+// 	var sync_specific_testcase SyncSpecificTC
+// 	var message Messenger
+
+// 	w.Header().Set("Content-type", "application/json")
+
+// 	json.NewDecoder(r.Body).Decode(&sync_specific_testcase)
+
+// 	log.Println("Initializing test case sync...")
+
+// 	cmd := "cd /Users/ecom-shinu.mathew/go/src/github.com/Shinz9474/InsightAps/DataProcessor/; ./DataProcessor TestCase_CSV_To_MYSQL_Writter "
+
+// 	cmd = cmd + sync_specific_testcase.TestCase
+
+// 	log.Printf("Executing command \n || %v ||", cmd)
+
+// 	command := exec.Command(cmd)
+// 	err := command.Run()
+
+// 	if err != nil {
+
+// 		w.WriteHeader(509)
+// 		message = Messenger{"Unable to execute the Sync request. Error occured when executing command: \n" + cmd}
+// 		log.Printf("Unable to execute the Sync request. Error occured when executing command")
+// 	} else {
+// 		message = Messenger{"Successfully synced the test cases"}
+// 		log.Printf("Successfully synced the test cases")
+// 	}
+
+// 	json.NewEncoder(w).Encode(message)
+
+// }
+
+// //Sync testcase
+// func SyncTestCase(w http.ResponseWriter, r *http.Request) {
+
+// 	var sync_testcase SyncTC
+// 	var message Messenger
+
+// 	w.Header().Set("Content-type", "application/json")
+
+// 	json.NewDecoder(r.Body).Decode(&sync_testcase)
+
+// 	log.Println("Initializing test case sync...")
+
+// 	cmd := "cd /Users/ecom-shinu.mathew/go/src/github.com/Shinz9474/InsightAps/DataProcessor/; ./DataProcessor TestCase_CSV_To_MYSQL_Writter "
+
+// 	log.Printf("Test cases: %v", sync_testcase.TestCases)
+
+// 	for _, v := range sync_testcase.TestCases {
+// 		cmd = cmd + v
+
+// 		log.Printf("Executing command \n || %v ||", cmd)
+
+// 		command := exec.Command(cmd)
+// 		err := command.Run()
+
+// 		if err != nil {
+
+// 			w.WriteHeader(509)
+// 			message = Messenger{"Unable to execute the Sync request. Error occured when executing command: \n" + cmd}
+// 			log.Printf("Unable to execute the Sync request. Error occured when executing command")
+// 		} else {
+// 			message = Messenger{"Successfully synced the test cases"}
+// 			log.Printf("Successfully synced the test cases")
+// 		}
+
+// 	}
+// 	json.NewEncoder(w).Encode(message)
+// }

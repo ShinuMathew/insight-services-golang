@@ -1,0 +1,1034 @@
+{
+	"Total_countries": 147,
+	"Country": [
+		{
+			"Locale_ID": "Locale_ID",
+			"Locale_Name": "Locale_name",
+			"Country": "Country",
+			"Status": "Status",
+			"Country_Code": "Country_Code"
+		},
+		{
+			"Locale_ID": "1",
+			"Locale_Name": "en_US",
+			"Country": "English",
+			"Status": "ACTIVE",
+			"Country_Code": "US"
+		},
+		{
+			"Locale_ID": "2",
+			"Locale_Name": "ar",
+			"Country": "Arabic",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "3",
+			"Locale_Name": "ar_AE",
+			"Country": "United Arab Emirates",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "4",
+			"Locale_Name": "ar_BH",
+			"Country": "Bahrain",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "5",
+			"Locale_Name": "ar_DZ",
+			"Country": "Algeria",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "6",
+			"Locale_Name": "ar_EG",
+			"Country": "Egypt",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "7",
+			"Locale_Name": "ar_IQ",
+			"Country": "Iraq",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "8",
+			"Locale_Name": "ar_JO",
+			"Country": "Jordan",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "9",
+			"Locale_Name": "ar_KW",
+			"Country": "Kuwait",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "10",
+			"Locale_Name": "ar_LB",
+			"Country": "Lebanon",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "11",
+			"Locale_Name": "ar_LY",
+			"Country": "Libya",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "12",
+			"Locale_Name": "ar_MA",
+			"Country": "Morocco",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "13",
+			"Locale_Name": "ar_OM",
+			"Country": "Oman",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "14",
+			"Locale_Name": "ar_QA",
+			"Country": "Qatar",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "15",
+			"Locale_Name": "ar_SA",
+			"Country": "Saudi Arabia",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "16",
+			"Locale_Name": "ar_SD",
+			"Country": "Sudan",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "17",
+			"Locale_Name": "ar_SY",
+			"Country": "Syria",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "18",
+			"Locale_Name": "ar_TN",
+			"Country": "Tunisia",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "19",
+			"Locale_Name": "ar_YE",
+			"Country": "Yemen",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "20",
+			"Locale_Name": "be",
+			"Country": "Belarusian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "21",
+			"Locale_Name": "be_BY",
+			"Country": "Belarus",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "22",
+			"Locale_Name": "bg",
+			"Country": "Bulgarian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "23",
+			"Locale_Name": "bg_BG",
+			"Country": "Bulgaria",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "24",
+			"Locale_Name": "ca",
+			"Country": "Catalan",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "25",
+			"Locale_Name": "ca_ES",
+			"Country": "Spain",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "26",
+			"Locale_Name": "cs",
+			"Country": "Czech",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "27",
+			"Locale_Name": "cs_CZ",
+			"Country": "Czech Republic",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "28",
+			"Locale_Name": "da",
+			"Country": "Danish",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "29",
+			"Locale_Name": "da_DK",
+			"Country": "Denmark",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "30",
+			"Locale_Name": "de-DE",
+			"Country": "Germany",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "31",
+			"Locale_Name": "de_AT",
+			"Country": "Austria",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "32",
+			"Locale_Name": "de_CH",
+			"Country": "Switzerland",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "33",
+			"Locale_Name": "de_DE",
+			"Country": "Germany",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "34",
+			"Locale_Name": "de_LU",
+			"Country": "Luxembourg",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "35",
+			"Locale_Name": "el",
+			"Country": "Greek",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "36",
+			"Locale_Name": "el_GR",
+			"Country": "Greece",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "37",
+			"Locale_Name": "en",
+			"Country": "English",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "38",
+			"Locale_Name": "en_AU",
+			"Country": "Australia",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "39",
+			"Locale_Name": "en_CA",
+			"Country": "Canada",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "40",
+			"Locale_Name": "en_GB",
+			"Country": "United Kingdom",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "41",
+			"Locale_Name": "en_IE",
+			"Country": "Ireland",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "42",
+			"Locale_Name": "en_IN",
+			"Country": "India",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "43",
+			"Locale_Name": "en_NZ",
+			"Country": "New Zealand",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "44",
+			"Locale_Name": "en_ZA",
+			"Country": "South Africa",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "45",
+			"Locale_Name": "es",
+			"Country": "Spanish",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "46",
+			"Locale_Name": "es_AR",
+			"Country": "Argentina",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "47",
+			"Locale_Name": "es_BO",
+			"Country": "Bolivia",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "48",
+			"Locale_Name": "es_CL",
+			"Country": "Chile",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "49",
+			"Locale_Name": "es_CO",
+			"Country": "Colombia",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "50",
+			"Locale_Name": "es_CR",
+			"Country": "Costa Rica",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "51",
+			"Locale_Name": "es_DO",
+			"Country": "Dominican Republic",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "52",
+			"Locale_Name": "es_EC",
+			"Country": "Ecuador",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "53",
+			"Locale_Name": "es_ES",
+			"Country": "Spain",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "54",
+			"Locale_Name": "es_GT",
+			"Country": "Guatemala",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "55",
+			"Locale_Name": "es_HN",
+			"Country": "Honduras",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "56",
+			"Locale_Name": "es_MX",
+			"Country": "Mexico",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "57",
+			"Locale_Name": "es_NI",
+			"Country": "Nicaragua",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "58",
+			"Locale_Name": "es_PA",
+			"Country": "Panama",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "59",
+			"Locale_Name": "es_PE",
+			"Country": "Peru",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "60",
+			"Locale_Name": "es_PR",
+			"Country": "Puerto Rico",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "61",
+			"Locale_Name": "es_PY",
+			"Country": "Paraguay",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "62",
+			"Locale_Name": "es_SV",
+			"Country": "El Salvador",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "63",
+			"Locale_Name": "es_UY",
+			"Country": "Uruguay",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "64",
+			"Locale_Name": "es_VE",
+			"Country": "Venezuela",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "65",
+			"Locale_Name": "et",
+			"Country": "Estonian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "66",
+			"Locale_Name": "et_EE",
+			"Country": "Estonia",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "67",
+			"Locale_Name": "fi",
+			"Country": "Finnish",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "68",
+			"Locale_Name": "fi_FI",
+			"Country": "Finland",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "69",
+			"Locale_Name": "fr",
+			"Country": "French",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "70",
+			"Locale_Name": "fr_BE",
+			"Country": "Belgium",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "71",
+			"Locale_Name": "fr_CA",
+			"Country": "Canada",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "72",
+			"Locale_Name": "fr_CH",
+			"Country": "Switzerland",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "73",
+			"Locale_Name": "fr_FR",
+			"Country": "France",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "74",
+			"Locale_Name": "fr_LU",
+			"Country": "Luxembourg",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "75",
+			"Locale_Name": "hi_IN",
+			"Country": "India",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "76",
+			"Locale_Name": "hr",
+			"Country": "Croatian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "77",
+			"Locale_Name": "hr_HR",
+			"Country": "Croatia",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "78",
+			"Locale_Name": "hu",
+			"Country": "Hungarian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "79",
+			"Locale_Name": "hu_HU",
+			"Country": "Hungary",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "80",
+			"Locale_Name": "is",
+			"Country": "Icelandic",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "81",
+			"Locale_Name": "is_IS",
+			"Country": "Iceland",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "82",
+			"Locale_Name": "it",
+			"Country": "Italian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "83",
+			"Locale_Name": "it_CH",
+			"Country": "Switzerland",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "84",
+			"Locale_Name": "it_IT",
+			"Country": "Italy",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "85",
+			"Locale_Name": "iw",
+			"Country": "Hebrew",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "86",
+			"Locale_Name": "iw_IL",
+			"Country": "Israel",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "87",
+			"Locale_Name": "ja",
+			"Country": "Japanese",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "88",
+			"Locale_Name": "ja_JP",
+			"Country": "Japan",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "89",
+			"Locale_Name": "ko",
+			"Country": "Korean",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "90",
+			"Locale_Name": "ko_KR",
+			"Country": "South Korea",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "91",
+			"Locale_Name": "lt",
+			"Country": "Lithuanian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "92",
+			"Locale_Name": "lt_LT",
+			"Country": "Lithuania",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "93",
+			"Locale_Name": "lv",
+			"Country": "Latvian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "94",
+			"Locale_Name": "lv_LV",
+			"Country": "Latvia",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "95",
+			"Locale_Name": "mk",
+			"Country": "Macedonian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "96",
+			"Locale_Name": "mk_MK",
+			"Country": "Macedonia",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "97",
+			"Locale_Name": "nl",
+			"Country": "Dutch",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "98",
+			"Locale_Name": "nl_BE",
+			"Country": "Belgium",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "99",
+			"Locale_Name": "nl_NL",
+			"Country": "Netherlands",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "100",
+			"Locale_Name": "no",
+			"Country": "Norwegian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "101",
+			"Locale_Name": "no_NO",
+			"Country": "Norway",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "102",
+			"Locale_Name": "no_NO_NY",
+			"Country": "NO",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "103",
+			"Locale_Name": "pl",
+			"Country": "Polish",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "104",
+			"Locale_Name": "pl_PL",
+			"Country": "Poland",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "105",
+			"Locale_Name": "pt",
+			"Country": "Portuguese",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "106",
+			"Locale_Name": "pt_BR",
+			"Country": "Brazil",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "107",
+			"Locale_Name": "pt_PT",
+			"Country": "Portugal",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "108",
+			"Locale_Name": "ro",
+			"Country": "Romanian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "109",
+			"Locale_Name": "ro_RO",
+			"Country": "Romania",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "110",
+			"Locale_Name": "ru",
+			"Country": "Russian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "111",
+			"Locale_Name": "ru_RU",
+			"Country": "Russia",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "112",
+			"Locale_Name": "sk",
+			"Country": "Slovak",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "113",
+			"Locale_Name": "sk_SK",
+			"Country": "Slovakia",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "114",
+			"Locale_Name": "sl",
+			"Country": "Slovenian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "115",
+			"Locale_Name": "sl_SI",
+			"Country": "Slovenia",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "116",
+			"Locale_Name": "sq",
+			"Country": "Albanian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "117",
+			"Locale_Name": "sq_AL",
+			"Country": "Albania",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "118",
+			"Locale_Name": "sr",
+			"Country": "Serbian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "119",
+			"Locale_Name": "sr_BA",
+			"Country": "Bosnia and Herzegovina",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "120",
+			"Locale_Name": "sr_CS",
+			"Country": "Serbia and Montenegro",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "121",
+			"Locale_Name": "sv",
+			"Country": "Swedish",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "122",
+			"Locale_Name": "sv_SE",
+			"Country": "Sweden",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "123",
+			"Locale_Name": "th",
+			"Country": "Thai",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "124",
+			"Locale_Name": "th_TH",
+			"Country": "Thailand",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "125",
+			"Locale_Name": "th_TH_TH",
+			"Country": "TH",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "126",
+			"Locale_Name": "tr",
+			"Country": "Turkish",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "127",
+			"Locale_Name": "tr_TR",
+			"Country": "Turkey",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "128",
+			"Locale_Name": "uk",
+			"Country": "Ukrainian",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "129",
+			"Locale_Name": "uk_UA",
+			"Country": "Ukraine",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "130",
+			"Locale_Name": "vi",
+			"Country": "Vietnamese",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "131",
+			"Locale_Name": "vi_VN",
+			"Country": "Vietnam",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "132",
+			"Locale_Name": "zh",
+			"Country": "Chinese",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "133",
+			"Locale_Name": "zh_CN",
+			"Country": "China",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "134",
+			"Locale_Name": "zh_HK",
+			"Country": "Hong Kong",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "135",
+			"Locale_Name": "zh_TW",
+			"Country": "Taiwan",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "136",
+			"Locale_Name": "Pan_dora",
+			"Country": "Pandora",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "137",
+			"Locale_Name": "ru_KZ",
+			"Country": "Kazhakistan",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "138",
+			"Locale_Name": "",
+			"Country": "",
+			"Status": "INACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "140",
+			"Locale_Name": "md",
+			"Country": "Maryland",
+			"Status": "Active",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "141",
+			"Locale_Name": "AM",
+			"Country": "Armenia",
+			"Status": "Active",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "143",
+			"Locale_Name": "EU_eu",
+			"Country": "EuropeanCountries",
+			"Status": "Active",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "144",
+			"Locale_Name": "en_MY",
+			"Country": "MALAYSIA",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "145",
+			"Locale_Name": "en_SG",
+			"Country": "SINGAPORE",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "147",
+			"Locale_Name": "en_ph",
+			"Country": "Philippines",
+			"Status": "Active",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "148",
+			"Locale_Name": "en-GB",
+			"Country": "UK",
+			"Status": "ACTIVE",
+			"Country_Code": "NULL"
+		},
+		{
+			"Locale_ID": "142",
+			"Locale_Name": "GL",
+			"Country": "Global",
+			"Status": "Active",
+			"Country_Code": "NULL"
+		}
+	]
+}

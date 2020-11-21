@@ -1,0 +1,19 @@
+{
+    "protocol":"tcp",
+    "host":"127.0.0.1",
+    "port":"3306",
+    "db_con":"${os.db_username}:${db_password}@${protocol}(${host}:${port})/",
+    "os":
+    [
+        {
+            "os_name":"mac",
+            "db_username":"root",
+            "db_password":"password"
+        },
+        {
+            "os_name":"windows",
+            "db_username":"root",
+            "db_password":"9474"
+        }
+    ]
+}
