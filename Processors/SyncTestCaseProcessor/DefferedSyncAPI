@@ -21,7 +21,7 @@
 
 // 	log.Println("Initializing test case sync...")
 
-// 	cmd := "cd /Users/ecom-shinu.mathew/go/src/github.com/Shinz9474/InsightAps/DataProcessor/; ./DataProcessor TestCase_CSV_To_MYSQL_Writter "
+// 	cmd := "cd /Users/shinu.mathew/go/src/github.com/Shinz9474/InsightAps/DataProcessor/; ./DataProcessor TestCase_CSV_To_MYSQL_Writter "
 
 // 	cmd = cmd + sync_specific_testcase.TestCase
 
@@ -56,7 +56,7 @@
 
 // 	log.Println("Initializing test case sync...")
 
-// 	cmd := "cd /Users/ecom-shinu.mathew/go/src/github.com/Shinz9474/InsightAps/DataProcessor/; ./DataProcessor TestCase_CSV_To_MYSQL_Writter "
+// 	cmd := "cd /Users/shinu.mathew/go/src/github.com/Shinz9474/InsightAps/DataProcessor/; ./DataProcessor TestCase_CSV_To_MYSQL_Writter "
 
 // 	log.Printf("Test cases: %v", sync_testcase.TestCases)
 
